@@ -13,14 +13,40 @@ header {
   background-image: url(/home/benoit/CODA/Exo2-Css/img/image-499666622.jpg);
   background-size: 100%;
 }
-#logo {
+#b-logo {
   position: absolute;
   margin-top: 2%;
-  margin-left: 11%;
+  margin-left: 20%;
 }
-#barre {
+#b-barre {
   position: absolute;
   margin-top: 4%;
   margin-left: 60%;
-  font
+  color: white;
+  font-size: 20px;
+}
+#b-accroche {
+  position: absolute;
+  margin-top: 14%;
+  margin-left: 20%;
+  color: white;
+  font-size: 50px;
+}
+#b-explication {
+  position: absolute;
+  margin-top: 27%;
+  margin-left: 19%;
+  color: white;
+  font-size: 25px;
+}
+#b-bouton {
+  position: absolute;
+  margin-top: 31%;
+  margin-left: 19%;
+  height: 60px;
+  width: 200px;
+  color: white;
+  background-color: #E57837;
+  font-size: 25px;
+
 }
